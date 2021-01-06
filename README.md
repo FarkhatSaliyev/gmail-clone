@@ -1,4 +1,4 @@
-Gmail clone
+# Gmail-clone
 React / Redux, React Routers, React Hooks
 
 Styling & Icons: BEM naming convention, Material-UI
